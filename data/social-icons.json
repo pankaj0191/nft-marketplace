@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Facebook",
+        "slug": "facebook",
+        "url": "https://www.facebook.com/"
+    },
+    {
+        "name": "Instagram",
+        "slug": "instagram",
+        "url": "https://www.instagram.com/"
+    },
+    {
+        "name": "Twitter",
+        "slug": "twitter",
+        "url": "https://twitter.com/"
+    },
+    {
+        "name": "Discord",
+        "slug": "discord",
+        "url": "https://discord.com/"
+    },
+    {
+        "name": "Website",
+        "slug": "website",
+        "url": "https://example.com/"
+    }
+]

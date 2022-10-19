@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Home",
+        "slug": "home",
+        "href": "/",
+        "url": [
+            "/"
+        ]
+    },
+    {
+        "name": "discover",
+        "slug": "discover",
+        "href": "/discover",
+        "url": [
+            "/discover",
+            "/discover/[id]"
+        ]
+    },
+    {
+        "name": "Create",
+        "slug": "nft",
+        "href": "/nft/create",
+        "url": [
+            "/nft",
+            "/nft/[tokenId]",
+            "/nft/create"
+        ]
+    },
+    {
+        "name": "About",
+        "slug": "about",
+        "href": "/about",
+        "url": [
+            "/about"
+        ]
+    },
+    {
+        "name": "Help",
+        "slug": "help",
+        "href": "/help",
+        "url": [
+            "/help"
+        ]
+    }
+ 
+]

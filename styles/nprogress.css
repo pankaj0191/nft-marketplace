@@ -1,0 +1,100 @@
+/* Make clicks pass-through */
+#nprogress {
+    pointer-events: none;
+    overflow:hidden;
+    max-height: 100vh;
+    width: 100%;
+    height: 100vh;
+
+}
+  
+  #nprogress .bar {
+    /* background: #0006; */
+  
+    position: fixed;
+    z-index: 99999;
+    /* top: 0;
+    left: 0; */
+    overflow:hidden;
+    max-height: 100vh;
+    width: 100%;
+    height: 100vh;
+  }
+  
+  /* Fancy blur effect */
+  #nprogress .peg {
+    display: block;
+    position: fixed;
+    right: 0px;
+    width: 100%;
+    height: 100vh;
+    max-height: 100vh;
+    /* box-shadow: 0 0 10px #0006, 0 0 5px #0006; */
+    opacity: 1.0;
+    overflow:hidden;
+
+  
+    -webkit-transform: rotate(3deg) translate(0px, -4px);
+        -ms-transform: rotate(3deg) translate(0px, -4px);
+            transform: rotate(3deg) translate(0px, -4px);
+  }
+  
+
+  #nprogress .spinner {
+    display: block;
+    position: fixed;
+    z-index: 99999;
+    top: 50%;
+    left: 50%;
+    height:100vh;
+    overflow:hidden;
+    width: 100%;
+    background:#000000c7;
+    max-height: 100vh;
+  transform: translate(-50%, -50%);
+  }
+ 
+  #nprogress .spinner-icon {
+    width: 50px;
+    height:50px;
+    box-sizing: border-box; 
+    overflow:hidden;
+    max-height: 100vh;
+    /* border: solid 2px transparent;
+    border-top-color: #29d;
+    border-left-color: #29d; */
+     background-image: url('../public/loader2.gif'); 
+     background-size: contain;
+     background-repeat: no-repeat;
+     background-position: center;
+     position: absolute;
+     transform: translate(-50%, -50%);
+     top: 50%;
+     left: 50%;
+     
+  
+  
+    -webkit-animation: nprogress-spinner 400ms linear infinite;
+            animation: nprogress-spinner 400ms linear infinite;
+  }
+  
+  .nprogress-custom-parent {
+    overflow: hidden;
+    position: relative;
+   
+  }
+  
+  .nprogress-custom-parent #nprogress .spinner,
+  .nprogress-custom-parent #nprogress .bar {
+    position: fixed;
+  }
+  
+  /* @-webkit-keyframes nprogress-spinner {
+    0%   { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  @keyframes nprogress-spinner {
+    0%   { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+   */

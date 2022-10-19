@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Pop",
+        "slug": "pop",
+        "description": "Pop",
+        "status": "publish"
+    },
+    {
+        "name": "Rock",
+        "slug": "rock",
+        "description": "Rock",
+        "status": "publish"
+    },
+    {
+        "name": "Hip Hop",
+        "slug": "hip_hop",
+        "description": "Hip Hop",
+        "status": "publish"
+    },
+    {
+        "name": "Rap",
+        "slug": "rap",
+        "description": "Rap",
+        "status": "publish"
+    },
+    {
+        "name": "Latin",
+        "slug": "latin",
+        "description": "Latin",
+        "status": "publish"
+    },
+    {
+        "name": "Dance/Electric",
+        "slug": "dance_electric",
+        "description": "Dance/Electric",
+        "status": "publish"
+    },
+    {
+        "name": "R&B",
+        "slug": "r_&_b",
+        "description": "R&B",
+        "status": "publish"
+    },
+    {
+        "name": "Country",
+        "slug": "country",
+        "description": "Country",
+        "status": "publish"
+    },
+    {
+        "name": "Folk/Acoustic",
+        "slug": "folk_acoustic",
+        "description": "Folk/Acoustic",
+        "status": "publish"
+    },
+    {
+        "name": "Classic",
+        "slug": "classic",
+        "description": "Classic",
+        "status": "publish"
+    },
+    {
+        "name": "Metal",
+        "slug": "metal",
+        "description": "Metal",
+        "status": "publish"
+    },
+    {
+        "name": "Jazz",
+        "slug": "jazz",
+        "description": "Jazz",
+        "status": "publish"
+    },
+    {
+        "name": "Easy Listening",
+        "slug": "easy_listening",
+        "description": "Easy Listening",
+        "status": "publish"
+    },
+    {
+        "name": "New Age",
+        "slug": "new_age",
+        "description": "New Age",
+        "status": "publish"
+    },
+    {
+        "name": "Blues",
+        "slug": "blues",
+        "description": "Blues",
+        "status": "publish"
+    },
+    {
+        "name": "World Traditional",
+        "slug": "world_traditional",
+        "description": "World Traditional",
+        "status": "publish"
+    },
+    {
+        "name": "Others",
+        "slug": "others",
+        "description": "Others",
+        "status": "publish"
+    }
+]

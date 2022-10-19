@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Diamond Verse",
+        "symbol": "DVT",
+        "description": "Diamond Verse Collection.",
+        "socialLinks": {
+            "instagram": "",
+            "facebook": "",
+            "twitter": "",
+            "discord": "",
+            "website": "https://nft-marketplace.paradisetechsoft.com"
+        },
+        "transactions": {
+            "to": null,
+            "from": "0xCEcFbfe67301Daeea1C8666c3b441b9a1752aEA2",
+            "contractAddress": "0xb9901b4c88F4bdB09037B7ee08F806dbbfD3454A",
+            "transactionIndex": 22,
+            "gasUsed": {
+                "type": "BigNumber",
+                "hex": "0x26569d"
+            },
+            "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "blockHash": "0xc46615481f72d86477c8e58fe0069b980eecd2fd258a2b03e4eadc000b6fe968",
+            "transactionHash": "0x3c4c9ed540eb79ebd110dd4bfc8cb3efc5a02656883e7c505323c644b50e3a26",
+            "logs": [],
+            "blockNumber": 11027198,
+            "confirmations": 1,
+            "cumulativeGasUsed": {
+                "type": "BigNumber",
+                "hex": "0x9461a0"
+            },
+            "effectiveGasPrice": {
+                "type": "BigNumber",
+                "hex": "0x59682f09"
+            },
+            "status": 1,
+            "type": 2,
+            "byzantium": true,
+            "events": []
+        },
+        "contractAddress": "0xb9901b4c88F4bdB09037B7ee08F806dbbfD3454A",
+        "isVarified": false,
+        "banner": "https://ipfs.infura.io/ipfs/QmQxaeHUCNsycmMB2jBdzFhmBtickauMecvnqEbGTq52UL",
+        "image": "https://ipfs.infura.io/ipfs/QmW487cTWEYtPWQsJ4uEepDS2tRFnphQRSCXaGiq3Szm48",
+        "feature": "https://ipfs.infura.io/ipfs/QmdiwDgKmmF4tM94dSLuZRujh9DYV3A1MMWfB9eLNsYcS5",
+        "status": true,
+        "createdBy": "62d0f73ea6b3cea7cb0a2bc6",
+        "updatedBy": "62d0f73ea6b3cea7cb0a2bc6",
+        "category": {
+            "$oid": "62d10742733fc8e99322c89f"
+        },
+        "genre": {
+            "$oid": "62d10742733fc8e99322c8b6"
+        },
+        "slug": "diamond-verse",
+        "blockchain": "rinkeby",
+        "collaborators": [],
+        "creatorEarning": "1",
+        "creatorEarningAddress": "0xCEcFbfe67301Daeea1C8666c3b441b9a1752aEA2",
+        "explicitSensitiveContent": false
+    }
+]

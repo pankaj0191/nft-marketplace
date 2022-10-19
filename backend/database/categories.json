@@ -1,0 +1,66 @@
+[
+    {
+      "name": "EP",
+      "slug": "ep",
+      "description": "EP",
+      "status": true,
+      "createdAt": "2022-06-20T12:00:28.329Z",
+      "updateAt": "2022-06-20T12:00:28.329Z"
+    },
+    {
+      "name": "Single",
+      "slug": "single",
+      "description": "Single",
+      "status": true,
+      "createdAt": "2022-06-20T12:00:28.329Z",
+      "updateAt": "2022-06-20T12:00:28.329Z"
+    },
+    {
+      "name": "Album",
+      "slug": "album",
+      "description": "Album",
+      "status": true,
+      "createdAt": "2022-06-20T12:00:28.329Z",
+      "updateAt": "2022-06-20T12:00:28.329Z"
+    },
+    {
+      "name": "Video",
+      "slug": "video",
+      "description": "Video",
+      "status": true,
+      "createdAt": "2022-06-20T12:00:28.329Z",
+      "updateAt": "2022-06-20T12:00:28.329Z"
+    },
+    {
+      "name": "Art",
+      "slug": "art",
+      "description": "Art",
+      "status": true,
+      "createdAt": "2022-06-20T12:00:28.329Z",
+      "updateAt": "2022-06-20T12:00:28.329Z"
+    },
+    {
+      "name": "Photography",
+      "slug": "photography",
+      "description": "Photography",
+      "status": true,
+      "createdAt": "2022-06-20T12:00:28.329Z",
+      "updateAt": "2022-06-20T12:00:28.329Z"
+    },
+    {
+      "name": "Instrumental",
+      "slug": "instrumental",
+      "description": "Instrumental",
+      "status": true,
+      "createdAt": "2022-06-20T12:00:28.329Z",
+      "updateAt": "2022-06-20T12:00:28.329Z"
+    },
+    {
+      "name": "Others",
+      "slug": "others",
+      "description": "Others",
+      "status": true,
+      "createdAt": "2022-06-20T12:00:28.329Z",
+      "updateAt": "2022-06-20T12:00:28.329Z"
+    }
+  ]

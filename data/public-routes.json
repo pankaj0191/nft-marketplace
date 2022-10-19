@@ -1,0 +1,38 @@
+[
+    {
+        "route": "/api/login",
+        "method": "POST"   
+    },
+    {
+        "route": "/api/users",
+        "method": "GET"
+    },
+    {
+        "route": "/api/users/[userId]",
+        "method": "GET"
+    },
+    {
+        "route": "/api/collections",
+        "method": "GET"   
+    },
+    {
+        "route": "/api/nfts/[collectionId]",
+        "method": "GET"   
+    },
+    {
+        "route": "/api/nfts",
+        "method": "GET"   
+    },
+    {
+        "route": "/api/nfts/[id]",
+        "method": "GET"   
+    },
+    {
+        "route": "/api/genries",
+        "method": "GET"   
+    },
+    {
+        "route": "/api/categories",
+        "method": "GET"   
+    }
+]
